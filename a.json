@@ -1,0 +1,37 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "address": {
+        "street": "123 Main Street",
+        "city": "Anytown",
+        "state": "CA",
+        "postal_code": "12345"
+    },
+    "email": "johndoe@example.com",
+    "phone_numbers": [
+        "555-555-5555",
+        "123-456-7890"
+    ],
+    "is_student": false,
+    "hobbies": [
+        "Reading",
+        "Hiking",
+        "Cooking"
+    ]
+}.023.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
